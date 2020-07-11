@@ -1,0 +1,7 @@
+main: network.battlecraft.gamemodenotify
+name: gamemodenotify
+version: 1.0
+author: WinglessWhistle
+
+commands:
+  none:
